@@ -1,5 +1,5 @@
 # pizzastore
-It is a SQL file that generates relational DB schema for a pizza store. Schema can be used for data science projects. I plan to add data import files to the repo. Data Dictionary below provides overview of each table's structure, including the column names, data types, and descriptions.
+It is a SQL file that generates relational DB schema for a pizza store. Schema can be used for data science projects.Data Dictionary below provides overview of each table's structure, including the column names, data types, and descriptions.
                                          
 
 | Table Name       | Column Name          | Data Type          | Description                                         |
